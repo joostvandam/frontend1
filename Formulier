@@ -5,6 +5,8 @@
 </head>
 <body>
 
+	<main>
+
 <h1>Aanmelden</h1>
 
 <p>
@@ -198,6 +200,6 @@ Voor vragen of opmerkingen kunt u <a href="https://www.cmd-amsterdam.nl/contact/
 				</fieldset>
 					<button type="submit">Aanmelden</button>
 			</form>
-
+	</main>
 </body>
 </html>
