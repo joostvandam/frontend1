@@ -108,16 +108,19 @@
 	Mocht je als aankomend student meer willen weten of contact op willen nemen met een
 	afgestudeerde studenten? Neem <a href="https://www.cmd-amsterdam.nl/contact/" target="_blank">contact </a> met ons op.
 		</p>
-
-		<h3>Uitstroomberoepen:</h3>
-
-		<ol>
-			<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/frontend-developer.aspx" target="_blank">Frontend developer </a></li>
-			<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/visual-interface-designer.aspx" target="_blank">Visual designer </a></li>
-			<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/interaction-designer.aspx" target="_blank">Interaction designer </a></li>
-			<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/content-manager.aspx" target="_blank">Content manager </a></li>
-			<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/project-manager.aspx" target="_blank">Project manager </a></li>
-		</ol>
+		
+		<footer>
+		
+			<h3>Uitstroomberoepen:</h3>
+	
+			<ol>
+				<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/frontend-developer.aspx" target="_blank">Frontend developer </a></li>
+				<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/visual-interface-designer.aspx" target="_blank">Visual designer </a></li>
+				<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/interaction-designer.aspx" target="_blank">Interaction designer </a></li>
+				<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/content-manager.aspx" target="_blank">Content manager </a></li>
+				<li><a href="https://cmd.dmci.hva.nl/NL/Paginas/Beroepsrollen/project-manager.aspx" target="_blank">Project manager </a></li>
+			</ol>
+		</footer>
 	</article>
 </body>
 </html>
