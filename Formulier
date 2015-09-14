@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Formulier</title>
+</head>
+<body>
+
+<h1>Aanmelden</h1>
+
+<p>
+Bent u geinteresseerd in samenwerken met CMD Amsterdam? Dat kan!
+Tijdens de opleiding werken studenten aan projecten voor echte opdrachtgevers. Ook
+lopen de studenten stage, in het tweede en afstudeerjaar.
+CMD Amsterdam zoekt altijd naar positieve verbindingen met de creatieve stad
+Amsterdam.
+Voor het aanmelden van stageplekken of projecten kunt u onderstaand formulier invullen.
+Wij nemen zo nodig contact met u op nadat het formulier is verstuurd.
+Voor vragen of opmerkingen kunt u <a href="https://www.cmd-amsterdam.nl/contact/" target="_blank">contact</a> met ons op.
+</p>
+
+<form>
+				<fieldset>
+					<legend>Contactgegevens:</legend> 				
+						
+							<label for="naam">Naam</label>
+							<input type="text" id="naam" placeholder="Naam">
+
+							<label for="bedrijf">Bedrijf</label>
+							<input type="text" id="bedrijf" placeholder="Bedrijfsnaam">
+
+							<label for="adres">Adres</label>
+							<input type="text" id="adres" placeholder="Straat 1">
+
+							<label for="plaats">Plaats</label>
+							<input type="text" id="plaats" placeholder="Amsterdam">
+				
+							<label for="postcode">Postcode</label>
+							<input type="text" id="postcode" placeholder="1234AB">
+		
+							<label for="telefoon">Telefoon</label>
+							<input type="tel" id="telefoon" placeholder="06-12345678">
+
+							<label for="email">Email*</label>
+							<input type="email" id="email" placeholder="email@voorbeeld.nl">		
+				</fieldset>
+			</form>
+
+			<form>
+				<fieldset>
+					<legend>Ik wil mij aanmelden</legend> 				
+							<label for="aanmelden">Aanmelden</label>
+	                      		<select id="aanmelden">
+	                            	<option>Voor een project</option>
+	                           		<option>Als stagebedrijf</option>
+	                        	</select>
+				</fieldset>
+			</form>
+
+			<form>
+				<fieldset>
+					<legend>Project</legend>	
+							<label for="Titel">Titel</label>
+							<input type="text" id="Titel" placeholder="Titel project">
+
+							<label for="Opdrachtomschrijving">Opdrachtomschrijving</label>
+							<input type="text" id="Opdrachtomschrijving" placeholder="Opdrachtomschrijving">
+
+							<label for="Doelgroepomschrijving">Doelgroepomschrijving</label>
+							<input type="text" id="Doelgroepomschrijving" placeholder="Doelgroep">
+
+							<label for="Doelstelling/intentievanhetproject">Doelstelling/intentie van het project</label>
+							<input type="text" id="Doelstelling/intentievanhetproject" placeholder="Doelstelling/intentie van het project">
+							<label for="Looptijd">Looptijd</label>
+							<input type="text" id="Looptijd" placeholder="Looptijd">
+			
+							<label for="Deadline">deadline</label>
+	                        	<select id="Deadline">
+	                            	<option>1</option>
+	                           		<option>2</option>
+	                            	<option>3</option>
+	                            	<option>4</option>
+									<option>5</option>
+									<option>6</option>
+									<option>7</option>
+									<option>8</option>
+					    	    	<option>9</option>
+					    	    	<option>10</option>
+					    	    	<option>11</option>
+						    		<option>12</option>
+									<option>13</option>
+					    	    	<option>14</option>
+					    	    	<option>15</option>
+					    	    	<option>16</option>
+					    	    	<option>17</option>
+					    	    	<option>18</option>
+					    	    	<option>19</option>
+					    	    	<option>20</option>
+					    	    	<option>21</option>
+					    	    	<option>22</option>
+					    	    	<option>23</option>
+					    	    	<option>24</option>
+									<option>25</option>
+						        	<option>26</option>
+					   	    		<option>27</option>
+						   	    	<option>28</option>
+						   	    	<option>29</option>
+						   	    	<option>30</option>
+					    	    	<option>31</option>
+	                        	</select>
+
+								<select id="maand">
+						 	    	<option>januari</option>
+					   	    		<option>februari</option>
+							    	<option>maart</option>
+					    	    	<option>april</option>
+					    	    	<option>mei</option>
+					    	    	<option>juni</option>
+					 	    		<option>juli</option>
+							    	<option>augustus</option>
+					    	    	<option>september</option>
+					    	    	<option>oktober</option>
+					    	    	<option>november</option>
+					    	    	<option>december</option>
+								</select>
+	
+								<select id="year">
+									<option>2015</option>
+					    	    	<option>2016</option>
+					    	    	<option>2017</option>
+									<option>2018</option>
+									<option>2019</option>
+					    		</select>
+								<br />
+							<label for="projectgeschikt">Geschikt voor</label>
+								<br />
+			                	<select id="projectgeschikt">
+									<option>Eerstejaars studenten</option>
+									<option>Tweedejaars studenten</option>
+									<option>Derdejaars studenten</option>
+									<option>Afstudeer studenten</option>
+									<option>Onbekend</option>
+								</select>
+								<br />
+							<label for="projectopmerking">Opmerking</label>
+								<input type="text" id="projectopmerking" placeholder="Typ hier uw vraag of opmerking.">
+				</fieldset>
+			</form>
+
+			<form>
+				<fieldset>
+					<legend>Stagebedrijf</legend>
+						
+							<label for="stagegeschikt">Geschikt voor</label>
+								<br />
+					    		<select id="stagegeschikt">
+									<option>Tweedejaars studenten</option>
+									<option>Afstudeer studenten</option>
+									<option>Onbekend</option>
+								</select>
+									<br />
+							<label for="stageduur">Hoe lang is de stage?</label>
+									<br />
+					    		<select id="stageduur">
+									<option>10 weken</option>
+						    		<option>20 weken</option>
+								</select>
+								
+
+								<p>
+								<label for="werkzaamheden">Beschrijving werkzaamheden</label>
+								<input type="text" id="werkzaamheden" placeholder="Werkzaamheden binnen stagebedrijf">
+								</p>
+								
+								<p>
+								<label for="bedrijfsnaam">Bedrijfsnaam</label>
+								<input type="text" id="bedrijfsnaam" placeholder="Bedrijfsnaam" required>
+
+								<label for="bedrijfsadres">Adres</label>
+								<input type="text" id="bedrijfsadres" placeholder="Straat 1">
+				
+								<label for="bedrijfspostcode">Postcode</label>
+								<input type="text" id="bedrijfspostcode" placeholder="1234AB">
+		
+								<label for="plaats">Plaats</label>
+								<input type="text" id="plaats2" placeholder="Plaats">
+
+								<label for="sector">Sector</label>
+								<input type="text" id="sector" placeholder="Sector" required>
+
+								<label for="sector">Core business</label>
+								<input type="text" id="corebusiness" placeholder="Core business" required>
+								</p>
+								
+								<p>
+								<label for="stageopmerking">Opmerking</label>
+								<input type="text" id="stageopmerking" placeholder="Typ hier uw vraag of opmerking.">
+								</p>
+				</fieldset>
+					<button type="submit">Aanmelden</button>
+			</form>
+
+</body>
+</html>
